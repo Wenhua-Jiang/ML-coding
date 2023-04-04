@@ -1,10 +1,10 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-dataset = pd.read_csv('studentscores.csv')
+dataset = pd.read_csv('Salary_dataset.csv')
 X = dataset.iloc[ : ,   : 1 ].values
 Y = dataset.iloc[ : , 1 ].values
 
