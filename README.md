@@ -1,3 +1,5 @@
 # ML-coding
-Linear regression__
-Logistic regression__
+Linear regression   
+Logistic regression   
+
+
