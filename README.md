@@ -1,8 +1,8 @@
 # ML Algorithms
 
-# Logistic regression
+## Logistic regression
 
-# Naive bayes Classifier
+## Naive bayes Classifier
 Naive Bayes Classifier assumes that all the features are unrelated to each other. Presence or absence of a feature does not influence the presence or absence of any other feature.
 
 
