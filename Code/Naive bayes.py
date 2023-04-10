@@ -37,8 +37,6 @@ model.predict(vectorizer.transform(
 )
 
 
-# In[ ]:
-
 
 
 
