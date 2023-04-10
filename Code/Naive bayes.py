@@ -4,7 +4,6 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
 
-
 data = pd.read_csv('spam_ham_dataset.csv')
 
 #split the dataset for training and testing purposes
